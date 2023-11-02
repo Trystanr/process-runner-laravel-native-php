@@ -1,0 +1,14 @@
+PING yahoo.com (74.6.231.21): 56 data bytes
+64 bytes from 74.6.231.21: icmp_seq=0 ttl=45 time=331.893 ms
+64 bytes from 74.6.231.21: icmp_seq=1 ttl=45 time=287.006 ms
+64 bytes from 74.6.231.21: icmp_seq=2 ttl=45 time=284.992 ms
+64 bytes from 74.6.231.21: icmp_seq=3 ttl=45 time=285.542 ms
+64 bytes from 74.6.231.21: icmp_seq=4 ttl=45 time=307.755 ms
+64 bytes from 74.6.231.21: icmp_seq=5 ttl=45 time=327.594 ms
+64 bytes from 74.6.231.21: icmp_seq=6 ttl=45 time=345.829 ms
+64 bytes from 74.6.231.21: icmp_seq=7 ttl=45 time=284.492 ms
+64 bytes from 74.6.231.21: icmp_seq=8 ttl=45 time=285.067 ms
+64 bytes from 74.6.231.21: icmp_seq=9 ttl=45 time=284.787 ms
+64 bytes from 74.6.231.21: icmp_seq=10 ttl=45 time=284.454 ms
+64 bytes from 74.6.231.21: icmp_seq=11 ttl=45 time=341.170 ms
+64 bytes from 74.6.231.21: icmp_seq=12 ttl=45 time=286.536 ms
