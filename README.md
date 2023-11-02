@@ -3,3 +3,9 @@
 ## Process Runner
 
 This was a quick and fun follow along of a tutorial by On The Code Again. Check it out [here](https://www.youtube.com/watch?v=-NhcAXmMrP8)
+
+`php artisan native:serve`
+
+and 
+
+`npm run dev`

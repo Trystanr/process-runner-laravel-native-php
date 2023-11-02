@@ -2,6 +2,7 @@
 
 namespace App\Providers;
 
+use Native\Laravel\Facades\Window;
 use Native\Laravel\Facades\MenuBar;
 use Native\Laravel\Facades\GlobalShortcut;
 use Native\Laravel\Contracts\ProvidesPhpIni;
@@ -19,7 +20,10 @@ class NativeAppServiceProvider implements ProvidesPhpIni
             ->register();
 
 
-        MenuBar::create()->width(800)->height(600);
+        // MenuBar::create()->backgroundColor('#00000010');
+
+        Window::open()
+            ->backgroundColor('#00000050');
     }
 
     /**
